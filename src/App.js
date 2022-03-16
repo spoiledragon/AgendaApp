@@ -17,6 +17,15 @@ function App() {
         >
           Learn React
         </a>
+
+        
+        <label>
+          Bienvenido a AgendApp
+        </label>
+        <input type={"text"}>
+
+        </input>
+
       </header>
     </div>
   );
